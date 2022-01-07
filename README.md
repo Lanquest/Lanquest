@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lanquest
+- 👀 I’m interested in learning python
+- 🌱 I’m currently learning BI and Data Warehouse
+- 📫 How to reach me at this profile: https://www.linkedin.com/in/alan-bregantin-594731217/
